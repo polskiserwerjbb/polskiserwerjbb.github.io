@@ -114,7 +114,7 @@ body {
 .btn-primary:active {
   background-color: #ed1c24 !important;
   border-color: #ed1c24 !important;
-  color: #0b411f !important;
+  color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-primary:hover,
@@ -122,8 +122,8 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #22d262 !important;
-  border-color: #22d262 !important;
+  background-color: #570a0c !important;
+  border-color: #570a0c !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-primary.disabled,
